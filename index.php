@@ -36,13 +36,14 @@ include_once('utils/routes.php');
 					<div class="auth-cover-wrapper bg-primary-100">
 						<div class="auth-cover">
 							<div class="title text-center">
+								<h1 class="text-primary mb-10">House-Wife Assistant</h1>
 								<h1 class="text-primary mb-10">Welcome Back</h1>
 								<p class="text-medium">
 									Sign in to your Existing account to continue
 								</p>
 							</div>
 							<div class="cover-image">
-								<img src="assets/images/auth/signin-image.svg" alt="" />
+								<img src="assets/images/auth/signin-image1.png" alt="" />
 							</div>
 							<div class="shape-image">
 								<img src="assets/images/auth/shape.svg" alt="" />

@@ -33,7 +33,8 @@ include_once('utils/routes.php');
 
           <div class="col-lg-5 col-md-5 col-6 navbar-logo">
             <a href="dashboard.php">
-              <img src="<?php echo($assetsString['nav_logo'])?>" alt="logo" style="width:190px"/>
+                 <h3 class="text-primary mb-10">House-Wife Assistant Notes</h3>
+               <!-- <img src="<?php echo($assetsString['nav_logo'])?>" alt="logo" style="width:190px"/> -->
             </a>
           </div>
           <div class="col-lg-7 col-md-7 col-6">
